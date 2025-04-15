@@ -1,4 +1,5 @@
 ![bg](https://github.com/user-attachments/assets/37b89409-8735-46af-af28-88ede8488f51)
+<img src="[background1.gif](https://github.com/user-attachments/assets/37b89409-8735-46af-af28-88ede8488f51)" height="400" width="1050">
 
 <h1 align="center">Hello👋, I'm Soham Mondal</h1>
 <h3 align="center">🧑🏻‍💻 Frontend Developer | Backend Enthusiast | Open Source Contributor | AI/ML Enthusiast 🧑🏻‍💻</h3>
