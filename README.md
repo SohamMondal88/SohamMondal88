@@ -79,6 +79,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=SohamMondal88&theme=onedark&margin-w=15" alt="GitHub Trophies" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <div align="center">
 <table>
   <tr>
@@ -89,6 +93,5 @@
 </div>
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
