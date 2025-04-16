@@ -26,11 +26,12 @@
 - **OVERNITE (Kshitij, IIT Kharagpur) 2025**: Contributor
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohammondal02/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SohamMondal88)
-[![Instagram](https://img.shields.io/badge/Instagram-DC2743?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/the_mystic__sohlock_halmes/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:02062006sm@gmail.com)
-
+<div>
+   <a href="https://www.instagram.com/the_mystic__sohlock_halmes/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
+   <a href="https://github.com/SohamMondal88"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a>
+   <a href="https://www.linkedin.com/in/sohammondal02/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+   <a href="mailto:02062006sm@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+</div>
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -45,16 +46,25 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
+<h2 align="center">📊 GitHub Stats</h2>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SohamMondal88&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamMondal88&langs_count=8&layout=compact&theme=gruvbox&hide_border=false" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamMondal88&theme=dark&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SohamMondal88&theme=dark&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SohamMondal88&theme=dark&hide_border=false)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamMondal88&langs_count=8&layout=compact&theme=gruvbox)
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SohamMondal88&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="center">🔝 Top Contributed Repositories</h3>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=SohamMondal88&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" width="500"/>
+</p>
 
 ## 🏆 APERTURE 2.0 Badges:
 <div style="display:flex; justify-content:center; gap:20px;">
@@ -63,16 +73,19 @@
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbTdubXZrd28xNDI0ODBjbDU5NzRqeDB0NSIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="200px" height="220px" />
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbTdubXh0dmEwMjI0MGNsZXppa2h3ODA1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="200px" height="220px" />
 </div>
-<br>
-<div align="center">
 
+<h2>⚡ GitHub Trophies</h2>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=SohamMondal88&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+</p>
+
+<div align="center">
 <table>
   <tr>
     <td><img src="https://profile-counter.glitch.me/SohamMondal88/count.svg" alt="Visitor Count" height="30"/></td>
     <td><strong style="font-size: 18px;">&nbsp;&nbsp;👀 Visitor Count</strong></td>
   </tr>
 </table>
-
 </div>
 
 
