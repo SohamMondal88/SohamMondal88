@@ -16,6 +16,7 @@
 ---
 
 ## 🔥 Projects
+- 🚑 [**RELIEF**](https://relief-gamma.vercel.app/) – Healthcare platform for rural community.
 - 🔗 [**HackerzGuide**](https://hackerzguideofficials.vercel.app/) – Guidance platform for future success.
 - 🌄 [**Rural-Retreats**](https://ru-ral-re-treats-puce.vercel.app/) – Connects travelers to rural experiences.
 - ⌚ [**Watchkraft**](https://watchkraft.netlify.app/) – E-commerce site for watch lovers.
@@ -33,7 +34,7 @@
 - 🥇 **CWoC (The Code Bird, UIT, BU)** – Best Contributor (2024-25)
 - 🧠 **APERTURE 2.0 (Resourcio Community, AOT)** – Contributor (2025)
 - 🌙 **OVERNITE (Kshitij, IIT Kharagpur)** – Contributor (2025)
-
+- 💡 **IDEATHON (The Code Bird, UIT, BU)** – Author, Research-Based event (2025)
 ---
 
 ## 🌐 Connect with Me
