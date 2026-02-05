@@ -31,10 +31,11 @@
 ---
 
 ## ⚡ Experience
-- 🥇 **CWoC (The Code Bird, UIT, BU)** – Best Contributor (2024-25)
-- 🧠 **APERTURE 2.0 (Resourcio Community, AOT)** – Contributor (2025)
-- 🌙 **OVERNITE (Kshitij, IIT Kharagpur)** – Contributor (2025)
-- 💡 **IDEATHON (The Code Bird, UIT, BU)** – Author, Research-Based event (2025)
+- 🥇 CWoC · The Code Bird (UIT, BU) — Best Contributor (2024–25)
+- 🧠 APERTURE 2.0 · Resourcio Community (AOT) — Contributor (2025)
+- 🌙 OVERNITE · KSHITIJ, IIT Kharagpur — Contributor (2025)
+- 💡 IDEATHON · The Code Bird (UIT, BU) — Author | Research-Based Event (2025)
+- 🚀 KSHITIJ Techfest · IIT Kharagpur — Qualified Participant { Overnite · Source Code · Enigma · Hackathon (WASH Innovation Challenge) } (2026)
 ---
 
 ## 🌐 Connect with Me
@@ -48,7 +49,7 @@
         <a href="https://github.com/SohamMondal88"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a><br><sub>GitHub</sub>
       </td>
       <td align="center" width="80">
-        <a href="https://www.instagram.com/the_mystic__sohlock_halmes/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a><br><sub>Instagram</sub>
+        <a href="https://www.instagram.com/executed_user_/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a><br><sub>Instagram</sub>
       </td>
       <td align="center" width="80">
         <a href="mailto:02062006sm@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a><br><sub>Gmail</sub>
@@ -123,17 +124,19 @@
 
 ## 🏅 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SohamMondal88&theme=onedark&margin-w=15" alt="GitHub Trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=SohamMondal88&theme=dracula&margin-w=15&no-frame=true" 
+  />
 </p>
+
 
 ---
 
 ## 👁️‍🗨️ Visitor Count
+
 <p align="center">
-  <table>
-    <tr>
-      <td><img src="https://profile-counter.glitch.me/SohamMondal88/count.svg" height="30" alt="Visitor Count"/></td>
-      <td><strong>&nbsp;&nbsp;Visitor Count</strong></td>
-    </tr>
-  </table>
+  <img src="https://profile-counter.glitch.me/SohamMondal88/count.svg" height="30" alt="Visitor Count"/>
+  <br/>
+  <strong>Visitor Count</strong>
 </p>
+
