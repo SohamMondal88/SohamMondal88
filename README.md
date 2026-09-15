@@ -1,142 +1,61 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/bb/5e/47/bb5e47498772c0628f6dc7f26a6af28c.gif" alt="bg" width="1100" height="500"/>
+<div align="center">
+
+# Soham Mondal
+
+### Full-stack developer · Product-minded builder · AEIE undergraduate
+
+I turn ambitious ideas into responsive, accessible web products — from healthcare and commerce to environmental intelligence.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://soham-mondal-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohammondal02/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SohamMondal88)
+
+</div>
+
+## About me
+
+- Studying **B.E. in Applied Electronics & Instrumentation Engineering** at the University Institute of Technology, The University of Burdwan (2024–2028).
+- Building full-stack products with **React, TypeScript, Node.js, Express, Firebase and MongoDB**.
+- Interested in **product engineering, polished UI/UX, real-time systems, IoT dashboards and open source**.
+- Available for **software engineering internships, freelance web projects and collaborative builds**.
+
+## Selected work
+
+| Project | What it demonstrates | Stack | Links |
+|---|---|---|---|
+| **RELIEF** | AI-assisted healthcare discovery, symptom guidance, maps, first aid and emergency workflows | JavaScript · Leaflet · HTML/CSS | [Live](https://relief-gamma.vercel.app/) · [Code](https://github.com/SohamMondal88/RELIEF) |
+| **Freshleaf** | Responsive grocery-commerce experience with catalog, cart, Firebase services and multilingual product data | React · TypeScript · Firebase · Vite | [Live](https://freshleaf-3-0.vercel.app/) · [Code](https://github.com/SohamMondal88/FRESHLEAF-3.0) |
+| **EARTH-NET** | Presentation-ready environmental risk-monitoring prototype with simulated sensor intelligence | React · TypeScript · Vite · IoT concept | [Code](https://github.com/SohamMondal88/EARTH-NET) |
+| **Q-RETIX AI** | Pharmaceutical-research SaaS interface with research content and product storytelling | Next.js · React · TypeScript · Tailwind | [Code](https://github.com/SohamMondal88/Q-RETIX-AI) |
+| **Portfolio** | Personal portfolio focused on projects, experience and contact conversion | HTML · CSS · JavaScript | [Live](https://soham-mondal-portfolio.vercel.app/) · [Code](https://github.com/SohamMondal88/My-Portfolio-2.0) |
+
+> Open-source work such as RuralRetreats and HackerZGuide is presented separately from projects I lead, so ownership and contribution remain clear.
+
+## Toolbox
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,js,ts,html,css,sass,react,nodejs,express,mongodb,firebase,tailwind,bootstrap,vite,figma,git,github,vercel,postman&perline=10" alt="Technology stack" />
 </p>
 
-<h1 align="center">Hello👋, I'm Soham Mondal</h1>
-<h3 align="center">🧑🏻‍💻 Frontend Developer | Backend Enthusiast | Open Source Contributor | AI/ML Enthusiast 🧑🏻‍💻</h3>
+**Frontend:** React, JavaScript, TypeScript, HTML5, CSS3, SASS, Tailwind CSS, Bootstrap  
+**Backend & data:** Node.js, Express.js, MongoDB, Firebase, REST APIs  
+**Product & delivery:** Figma, Git/GitHub, Vercel, Netlify, Postman
 
----
+## Highlights
 
-## 💫 About Me
-- 🚀 Enthusiastic Applied Electronics & Instrumentation student, passionate about Web & Mobile App Development.
-- 🌱 Currently contributing to open-source projects.
-- 📖 I’m learning Full Stack Development, API Integration, and Real-Time Applications.
-- 💬 Ask me about Web Development, Web Design, and Mobile Apps.
+- **Best Contributor 2024–25** — CodeBird, UIT Burdwan
+- **Contributor, APERTURE 2.0 (2025)** — Resourcio, AOT
+- **Qualified participant, Kshitij 2026 — IIT Kharagpur** — Overnite, Source Code, Enigma and WASH Innovation Challenge
 
----
+## Engineering activity
 
-## 🔥 Projects
-- 🚑 [**RELIEF**](https://relief-gamma.vercel.app/) – Healthcare platform for rural community.
-- 🔗 [**HackerzGuide**](https://hackerzguideofficials.vercel.app/) – Guidance platform for future success.
-- 🌄 [**Rural-Retreats**](https://ru-ral-re-treats-puce.vercel.app/) – Connects travelers to rural experiences.
-- ⌚ [**Watchkraft**](https://watchkraft.netlify.app/) – E-commerce site for watch lovers.
-- 💰 **Expense Tracker** – Simple tracker built with TypeScript, HTML & CSS.
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SohamMondal88&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Soham's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamMondal88&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most-used languages" />
+</div>
 
----
+## Work with me
 
-## 📚 Education
-**Bachelor of Engineering in AEIE**  
-🧑‍🎓 *University Institute of Technology, The University of Burdwan (2024 - 2028)*
+I care about clear interfaces, responsive experiences and products that solve a real problem. If you are hiring an intern, need a polished website, or want to collaborate on an open-source product, connect with me through [LinkedIn](https://www.linkedin.com/in/sohammondal02/) or my [portfolio](https://soham-mondal-portfolio.vercel.app/).
 
----
-
-## ⚡ Experience
-- 🥇 CWoC · The Code Bird (UIT, BU) — Best Contributor (2024–25)
-- 🧠 APERTURE 2.0 · Resourcio Community (AOT) — Contributor (2025)
-- 🌙 OVERNITE · KSHITIJ, IIT Kharagpur — Contributor (2025)
-- 💡 IDEATHON · The Code Bird (UIT, BU) — Author | Research-Based Event (2025)
-- 🚀 KSHITIJ Techfest · IIT Kharagpur — Qualified Participant { Overnite · Source Code · Enigma · Hackathon (WASH Innovation Challenge) } (2026)
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="80">
-        <a href="https://www.linkedin.com/in/sohammondal02/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a><br><sub>LinkedIn</sub>
-      </td>
-      <td align="center" width="80">
-        <a href="https://github.com/SohamMondal88"><img src="https://skillicons.dev/icons?i=github&theme=dark" /></a><br><sub>GitHub</sub>
-      </td>
-      <td align="center" width="80">
-        <a href="https://www.instagram.com/executed_user_/"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a><br><sub>Instagram</sub>
-      </td>
-      <td align="center" width="80">
-        <a href="mailto:02062006sm@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a><br><sub>Gmail</sub>
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-## 💻 Tech Stack
-<p align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40"/><br><sub>HTML</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40"/><br><sub>CSS</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40"/><br><sub>JavaScript</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" height="40"/><br><sub>Bootstrap</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="40"/><br><sub>GitHub</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="40"/><br><sub>C</sub></td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40"/><br><sub>Java</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="40"/><br><sub>Vercel</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="40"/><br><sub>Firebase</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=figma&theme=dark" height="40"/><br><sub>Figma</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="40"/><br><sub>React</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40"/><br><sub>Node.js</sub></td>
-    </tr>
-  </table>
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SohamMondal88&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamMondal88&langs_count=8&layout=compact&theme=gruvbox&hide_border=false" width="300"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamMondal88&theme=dark&hide_border=false" width="350"/>
-</p>
-
----
-
-### 🔝 Top Contributed Repositories
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=SohamMondal88&limit=5&theme=dark&combine_all_yearly_contributions=true" width="500"/>
-</p>
-
----
-
-## 🏆 APERTURE 2.0 Badges
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 15px;">
-        <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbTdubW5xbGc0NDkyMGNrd2Z5eW04aXEwIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="200px" height="220px" alt="Badge 1" />
-      </td>
-      <td align="center" style="padding: 15px;">
-        <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbTdubXRtcXkxNTk4MGNsNHN5Z2tkY2tvIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="200px" height="220px" alt="Badge 2" />
-      </td>
-      <td align="center" style="padding: 15px;">
-        <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbTdubXZrd28xNDI0ODBjbDU5NzRqeDB0NSIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="200px" height="220px" alt="Badge 3" />
-      </td>
-      <td align="center" style="padding: 15px;">
-        <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbTdubXh0dmEwMjI0MGNsZXppa2h3ODA1IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="200px" height="220px" alt="Badge 4" />
-      </td>
-    </tr>
-  </table>
-</p>
-
----
-
-## 🏅 GitHub Trophies
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=SohamMondal88&theme=dracula&margin-w=15&no-frame=true" 
-  />
-</p>
-
-
----
-
-## 👁️‍🗨️ Visitor Count
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/SohamMondal88/count.svg" height="30" alt="Visitor Count"/>
-  <br/>
-  <strong>Visitor Count</strong>
-</p>
-
+If my open-source work helps you, starring a repository, sharing feedback, or sponsoring future development once GitHub Sponsors is enabled all make a difference.
